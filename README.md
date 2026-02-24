@@ -1,23 +1,22 @@
-# Coding Certificates Portfolio
+# C# Certificates Repository
 
-This repository serves as a centralized collection of my verified coding certificates. It highlights the courses, training programs, and skill‑building achievements I’ve completed across various platforms and technologies.
+This repository contains my verified certificates related to C# programming. It serves as a record of the courses, training programs, and skill-building achievements I’ve completed while developing my expertise in the C# language and .NET ecosystem.
 
 ## 🎯 Purpose
-To document my ongoing growth as a developer and provide a transparent record of my technical learning journey.
+To document my progress and accomplishments in C# development and maintain a clear, organized portfolio of my certifications.
 
 ## 📂 Contents
-- Certificates from online learning platforms  
-- Technical skill achievements  
-- Course completion records  
-- Professional development milestones  
+- C# programming certificates
+- .NET framework and .NET Core coursework
+- Object-oriented programming achievements
+- Additional C#-related training materials
 
 ## 🧠 Skills Represented
-- Programming fundamentals  
-- Web development  
-- Software engineering practices  
-- Cloud technologies  
-- Data and AI concepts  
-- Additional specialized topics  
+- C# fundamentals
+- Object-oriented programming (OOP)
+- .NET development
+- Debugging and code structure
+- Software development best practices
 
 ## 📜 Verification
-All certificates included in this repository are authentic and reflect completed coursework or assessments.
+All certificates included in this repository are authentic and represent completed and verified training.
