@@ -7,16 +7,11 @@ To document my progress and accomplishments in C# development and maintain a cle
 
 ## 📂 Contents
 - C# programming certificates
-- .NET framework and .NET Core coursework
-- Object-oriented programming achievements
-- Additional C#-related training materials
+- More Coming
 
 ## 🧠 Skills Represented
 - C# fundamentals
-- Object-oriented programming (OOP)
-- .NET development
-- Debugging and code structure
-- Software development best practices
+- More Coming
 
 ## 📜 Verification
 All certificates included in this repository are authentic and represent completed and verified training.
